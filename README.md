@@ -1,5 +1,6 @@
 # ECOMMERCE
-Created with CodeSandbox
+
+# Hosted URL - https://susmithabejjanki.github.io/project/
 
 This project was bootstrapped with Create React App.
 
